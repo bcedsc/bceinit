@@ -232,4 +232,8 @@ a{
     align-items: center;
     height: 700px;
   }
+  .desc > li
+  {
+    font-size: 18px;
+  }
 }
